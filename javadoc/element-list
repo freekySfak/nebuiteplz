@@ -1,0 +1,9 @@
+maps
+maps.AddMapsForm
+maps.AuthForm
+maps.DeleteMapForm
+maps.liked
+maps.MainForm
+maps.RegisterForm
+maps.utils
+maps.ViewForm

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"maps"},{"l":"maps.AddMapsForm"},{"l":"maps.AuthForm"},{"l":"maps.DeleteMapForm"},{"l":"maps.liked"},{"l":"maps.MainForm"},{"l":"maps.RegisterForm"},{"l":"maps.utils"},{"l":"maps.ViewForm"}];updateSearchResults();
